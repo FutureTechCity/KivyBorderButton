@@ -45,7 +45,7 @@ Use an editor to create a `borderbutton.kv` file. You can copy the following tem
             center: root.width / 2, root.height / 2
 ~~~
 
-## Test your image meme
+## Test your custom button
 
 You can test by running the following command from the Anaconda prompt:
 ~~~
